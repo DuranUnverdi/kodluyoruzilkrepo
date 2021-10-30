@@ -1,0 +1,43 @@
+.img {
+  text-align: center;
+}
+.search {
+  text-align: center;
+  background-color: rgb(219, 224, 219);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.search input {
+  width: 400px;
+  height: 20px;
+}
+.main {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.div1 {
+  background-color: rgb(102, 240, 198);
+  float: left;
+  width: 34.5%;
+  min-height: 200px;
+  margin-right: 0.5%;
+}
+.div2 {
+  padding-top: 20px;
+  background-color: rgb(90, 238, 193);
+  float: left;
+  width: 29.5%;
+  min-height: 180px;
+  margin-right: 0.5%;
+}
+.div3 {
+  background-color: rgb(83, 238, 192);
+  float: left;
+  width: 35%;
+  min-height: 200px;
+}
+.bottom {
+  margin-top: 220px;
+  text-align: center;
+}
