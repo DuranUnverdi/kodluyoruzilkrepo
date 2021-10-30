@@ -1,0 +1,64 @@
+.deneme {
+  color: red;
+  text-align: center;
+}
+nav ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+
+  padding: 0;
+
+  overflow: hidden;
+}
+nav ul li {
+  display: inline-block;
+  padding-left: 10px;
+}
+nav ul li a {
+  text-decoration: none;
+}
+.main {
+  padding-left: 30px;
+}
+.main h2 {
+  text-align: center;
+}
+.main h3 {
+  text-align: center;
+  color: rgb(201, 141, 31);
+}
+body {
+  width: 1300px;
+}
+.list {
+  text-align: center;
+}
+.list ul {
+  display: inline-block;
+  text-align: left;
+}
+.product {
+  text-align: center;
+}
+.product h2 {
+  color: rgb(201, 141, 31);
+}
+.product img {
+  width: 500px;
+  height: 400px;
+}
+.product ul {
+  margin-top: 30px;
+  list-style-type: none;
+}
+.product ul li {
+  margin-top: 20px;
+}
+.about {
+  padding-left: 30px;
+}
+.about h2,
+h3 {
+  color: rgb(201, 141, 31);
+}
